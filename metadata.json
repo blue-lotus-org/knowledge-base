@@ -1,0 +1,5 @@
+{
+  "name": "LOTUS AI Knowledge Base for Startups",
+  "description": "An AI-powered knowledge base application for startup teams to manage, share, and discover information. Features CRUD functionality, AI-generated summaries, and data import/export.",
+  "requestFramePermissions": []
+}
