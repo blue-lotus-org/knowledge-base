@@ -1,13 +1,10 @@
-# Run app
+# Enjoy it!
+This is a concept (front-end) application and is shared here to help you a little. You will need to add your own back-end and perhaps modify the UI for your purposes. This conceptual program also works.
 
-This contains everything you need to run your app locally.
+Usefull app for education, business, team...
 
 ## Run Locally
-
 **Prerequisites:**  Node.js
-
-1. Install dependencies:
--   `npm install`
+1. Install dependencies: `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
--   `npm run dev`
+3. Run the app: `npm run dev`
